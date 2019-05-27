@@ -16,11 +16,12 @@ Antonio Torralba, Raquel Urtasun, Sanja Fidler.
 *In NIPS, 2015.*
 
 
-## Code author
+## Code edit by 
 
+Code editor: Vinay vikram ([@vikramvinay](https://github.com/AIVenture0))
+
+## Code credit to : 
 Original code author: Chris Shallue ([@cshallue](https://github.com/cshallue))
-
-Code editor: Elvis Yu-Jing Lin ([@elvisyjlin](https://github.com/elvisyjlin))
 
 
 ## How to use?
