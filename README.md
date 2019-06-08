@@ -1,6 +1,5 @@
 # email-summarization
 ---
-
 A module for E-mail Summarization which uses clustering of skip-thought sentence embeddings.
 
 # Instructions
@@ -10,6 +9,7 @@ A module for E-mail Summarization which uses clustering of skip-thought sentence
 - Very first it's all about email parsing i mean removing 
   - Signatures
   - Salutation
+  
 After these two initial steps we get the email body. Body is in different languages for using
 - Google tranlate api convert them to one language"English".
 - Perform Sent_tokenization 
