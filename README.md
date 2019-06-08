@@ -1,4 +1,23 @@
-# Skip-Thought Vectors
+# email-summarization
+---
+
+A module for E-mail Summarization which uses clustering of skip-thought sentence embeddings.
+
+# Instructions
+- The code is written in Python 3.
+- The module uses code of the Skip-Thoughts paper which can be found in the repo.
+## How the whole thing process
+- Very first it's all about email parsing i mean removing 
+  - Signatures
+  - Salutation
+After these two initial steps we get the email body. Body is in different languages for using
+- Google tranlate api convert them to one language"English".
+- Perform Sent_tokenization 
+- Using Skip-thought-vector record the sentence embedding of each sentence.
+- With kmeans clustring clustre the embedding 
+- After all that perform the Topic modelling on email data.
+
+## Skip-Thought Vectors
 
 This is an migrated implementation of Skip-Thoughts for Python 3 from [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/skip_thoughts).
 
