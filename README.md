@@ -1,6 +1,8 @@
 # email-summarization
 A module for E-mail Summarization which uses clustering of skip-thought sentence embeddings.
 
+<img src="https://miro.medium.com/max/1400/1*1Y12GxSbTW0Pf3Psh24zHw.png">
+
 # Instructions
 - The code is written in Python 3.
 - The module uses code of the Skip-Thoughts paper which can be found in the repo.
