@@ -1,5 +1,8 @@
-<img scr='https://github.com/AIVenture0/Email_summarization-with-Unsupervised-Learning/blob/master/Images/Email-summarization.png' width=80px height=50px>
+<img scr='https://github.com/AIVenture0/Email_summarization-with-Unsupervised-Learning/blob/master/Images/Email-summarization.png'>
 
+## What is Text Summarization?
+
+__Text summarization__ is the process of distilling the most important information from a source (or sources) to produce an abridged version for a particular user (or users) and task (or tasks).
 
 A module for __E-mail Summarization__ which uses clustering of skip-thought sentence embeddings.
 
