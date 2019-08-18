@@ -1,4 +1,4 @@
-# Email-summarization
+![](https://github.com/AIVenture0/Email_summarization-with-Unsupervised-Learning/blob/master/Images/Email-summarization.png)
 
 
 A module for __E-mail Summarization__ which uses clustering of skip-thought sentence embeddings.
