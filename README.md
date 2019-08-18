@@ -1,4 +1,5 @@
-# email-summarization
+# Email-summarization
+
 A module for __E-mail Summarization__ which uses clustering of skip-thought sentence embeddings.
 
 <img src="https://miro.medium.com/max/1400/1*1Y12GxSbTW0Pf3Psh24zHw.png">
@@ -8,8 +9,11 @@ A module for __E-mail Summarization__ which uses clustering of skip-thought sent
 - The module uses code of the ```Skip-Thoughts``` paper which can be found in the repo.
 ## How the whole thing process
 - Very first it's all about email parsing i mean removing 
-  - __Signatures__
-  - __Salutation__
+
+  - __Signatures__ (e-mail signature is a block of text that is appended to the end of an e-mail message you send)
+  - __Salutation__ (e-mail salutation is a greeting, you write at the top of your email)
+  
+  
  Given above two steps are really complicated and it requires you a good understanding for __Regular Expression(Regex)__.
  
  
