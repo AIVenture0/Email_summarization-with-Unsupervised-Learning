@@ -1,4 +1,4 @@
-<img scr='https://github.com/AIVenture0/Email_summarization-with-Unsupervised-Learning/blob/master/Images/Email-summarization.png'>
+![](https://github.com/AIVenture0/Email_summarization-with-Unsupervised-Learning/blob/master/Images/Email-summarization.png)
 
 ## What is Text Summarization?
 
